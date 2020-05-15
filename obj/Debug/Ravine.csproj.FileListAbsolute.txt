@@ -1,0 +1,7 @@
+C:\Users\ejenn\source\repos\Ravine\bin\Debug\Ravine.exe.config
+C:\Users\ejenn\source\repos\Ravine\bin\Debug\Ravine.exe
+C:\Users\ejenn\source\repos\Ravine\bin\Debug\Ravine.pdb
+C:\Users\ejenn\source\repos\Ravine\obj\Debug\Ravine.csprojAssemblyReference.cache
+C:\Users\ejenn\source\repos\Ravine\obj\Debug\Ravine.csproj.CoreCompileInputs.cache
+C:\Users\ejenn\source\repos\Ravine\obj\Debug\Ravine.exe
+C:\Users\ejenn\source\repos\Ravine\obj\Debug\Ravine.pdb
